@@ -1,6 +1,8 @@
 
 public class ToDoList_example {
 	
-	//커밋제발
+	public static void main(String[] args) {
+		Welcome_Page welcomepage = new Welcome_Page();
+	}
 
 }
